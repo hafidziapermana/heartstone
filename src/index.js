@@ -6,8 +6,8 @@ import CardLists from './components/pages/CardLists'
 // import SingleCard from './component/pages/SingleCard.js'
 // import NotFound from '.component/pages/NotFound.js'
 
-import './assets/styles/style.css'
 import '../node_modules/normalize.css'
+import '../node_modules/font-awesome/css/font-awesome.min.css'
 
 const Root = () => (
   <Router>

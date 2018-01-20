@@ -1,0 +1,91 @@
+body {
+  max-width: 100%;
+}
+
+.wrapper {
+  border: 1px solid blue;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+/*Flex Container*/
+.layout {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+}
+
+/* Navbar */
+.nav-bar {
+  background-color: #32170b;
+  height: 80px;
+  width: 100%;
+  padding: 0 150px;
+}
+
+.flex-nav {
+  display: flex;
+  height: 80px;
+}
+
+    .logo img {
+      width: 200px;
+      height: 80px;
+    }
+
+    .searchbar .formcontrol,
+    .dropdown-btn button {
+      height: 36px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      border: none;
+    }
+
+    .searchbar .formcontrol {
+      width: 200px;
+    }
+
+    .dropdown-btn button {
+      background-color: #ff7300;
+      color: white;
+    }
+
+    .dropdownmenu {
+      height: 227px;
+      width: 168px;
+      background-color: #464646;
+      text-align: right;
+      margin-left: -100px;
+    }
+
+    .dropdownmenu li {
+      border-bottom: 2px dashed gray;
+      list-style: none;
+      height: 32px;
+      color: white;
+    }
+
+    .space {
+      flex-basis: 100%;
+    }
+
+.banner {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+}
+
+.content {
+
+}
+
+.footer {
+
+}
+
+.navbar,
+.banner,
+.content,
+.footer {
+  
+}
+
+

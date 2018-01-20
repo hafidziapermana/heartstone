@@ -4,7 +4,7 @@ hearthstone is a free-to-play online collectible card video game developed and p
 
 ### objective:
 * create a card collection list
-* card detail 
+* card detail
 * use hearthstoneapi for getting the card list, detail, and other assets like backcard & images
 
 ### assets:
